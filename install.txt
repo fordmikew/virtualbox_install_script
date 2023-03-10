@@ -1,0 +1,14 @@
+To install and run
+.
+We change the file to an executable so we can run it without using sh or bash before the file name
+
+sudo chmod +x  virtualbox_install_script
+
+now the file is changed into an executable we can run the script which will install virtualbox for us.
+
+We should now beable to run it from the terminal or show up in our menue.
+
+to run from terminal:
+
+./virtualbox_install_script
+
